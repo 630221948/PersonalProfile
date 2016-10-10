@@ -1,0 +1,45 @@
+{
+	"groups": [
+		{
+			"keys": "bg_jpg,egret_icon_png,description_json,bg1_jpg,DooM4 OST_mp3,doomicon_png,click_png",
+			"name": "preload"
+		}
+	],
+	"resources": [
+		{
+			"url": "assets/bg.jpg",
+			"type": "image",
+			"name": "bg_jpg"
+		},
+		{
+			"url": "assets/egret_icon.png",
+			"type": "image",
+			"name": "egret_icon_png"
+		},
+		{
+			"url": "config/description.json",
+			"type": "json",
+			"name": "description_json"
+		},
+		{
+			"url": "assets/bg1.jpg",
+			"type": "image",
+			"name": "bg1_jpg"
+		},
+		{
+			"url": "assets/DooM4 OST.mp3",
+			"type": "sound",
+			"name": "DooM4 OST_mp3"
+		},
+		{
+			"url": "assets/doomicon.png",
+			"type": "image",
+			"name": "doomicon_png"
+		},
+		{
+			"name": "click_png",
+			"type": "image",
+			"url": "assets/click.png"
+		}
+	]
+}
